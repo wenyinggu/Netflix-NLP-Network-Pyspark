@@ -1,7 +1,6 @@
-# netflix-analysis
- welcome!
- 
- This is our big data final project!
+# Big Data Netflix Analysis, NLP; Network Analysis; Streamlit 
+
+A group project with Can Luo, Yilin Yang done by May 2021
  
  In the **data** folder, there are all of the data you need to reproduce our result.
  
