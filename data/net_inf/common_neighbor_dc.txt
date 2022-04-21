@@ -1,0 +1,20 @@
+Steven Spielberg,Martin Scorsese,Taika Waititi,Joann Sfar,Mohammed Saeed Harib,Nina Paley,Michael Socha,Bill Plympton,Rob Cohen,Tomm Moore,Gaëtan Brizzi
+Martin Scorsese,Steven Spielberg,Steven Soderbergh,Terry Gilliam,Jon Avnet,Dominic Sena,Nick Cassavetes,Ethan Coen,Stephen Daldry,Woody Allen,Paul Thomas Anderson
+Steve Carr,Steve Brill,Jonathan van Tulleken,Patrik Forsberg,Peter Farrelly,Griffin Dunne,Will Graham,Brett Ratner,James Gunn,James Duffy,Rusty Cundieff
+Dibakar Banerjee,Zoya Akhtar,Anurag Kashyap,Karan Johar,Bejoy Nambiar,Abhishek Sharma,Ketan Mehta,Reema Kagti,Milan Luthria,Raj Kumar Gupta,Rajkumar Hirani
+Noah Baumbach,James Ponsoldt,Steve Brill,Gaby Dellal,Rian Johnson,Matthias Hoene,Rodolphe Guenoden,Roman Polanski,Daniel Alfredson,Christopher Guest,Atom Egoyan
+McG,Peter Farrelly,Steve Brill,Terry Gilliam,Jonathan van Tulleken,Elizabeth Banks,Ari Sandel,Steven Soderbergh,Steve Carr,Patrik Forsberg,Eric Idle
+Robert Rodriguez,Frank Miller,Steven Soderbergh,Frank Coraci,Mark Helfrich,Barry Sonnenfeld,Kyle Newman,Michael Kennedy,Martin Campbell,Ridley Scott,Don Michael Paul
+Quentin Tarantino,Wolfgang Petersen,Antoine Fuqua,Thomas Carter,Tony Scott,Florian Gallenberger,Frank Miller,Martin Scorsese,Lee Tamahori,Brett Ratner,Jon Turteltaub
+Akiva Schaffer,David Soren,Robert Luketic,Zoe Lister-Jones,Dennie Gordon,David Wain,Lauren Lapkus,Eva Vives,Ross R. Shuman,Diego Luna,Bob Odenkirk
+David Dhawan,Sooraj R. Barjatya,Priyadarshan,Mastan Alibhai Burmawalla,Abbas Alibhai Burmawalla,Partho Ghosh,Rajkumar Santoshi,Aziz Mirza,Umesh Shukla,Dharmesh Darshan,Anees Bazmee
+Kunle Afolayan,Tope Oshin,Jadesola Osiberu,Bunmi Ajakaiye,Shirley Frimpong-Manso,Biyi Bandele,Toka McBaror,Harriet Akinola,Yul Edochie,Odunlade Adekola,Ufuoma McDermott
+Cathy Garcia-Molina,Olivia M. Lamasan,Mae Czarina Cruz,Wenn V. Deramas,Maryo J. De los Reyes,Theodore Boborol,Jason Paul Laxamana,Nuel Naval,Joyce Bernal,Dan Villegas,Chito S. Roño
+Zoya Akhtar,Dibakar Banerjee,Anurag Kashyap,Karan Johar,Reema Kagti,Bejoy Nambiar,Aanand Rai,Sujoy Ghosh,Rajkumar Hirani,Onir,Madhur Bhandarkar
+Elizabeth Banks,Michael Dowse,Andy Tennant,Jorge Blanco,Dominic Sena,Antoine Fuqua,Philippe Falardeau,Barry Sonnenfeld,Brian Levant,Wes Craven,Greg Mottola
+Anurag Kashyap,Dibakar Banerjee,Zoya Akhtar,Karan Johar,Vikramaditya Motwane,Bejoy Nambiar,Reema Kagti,Farhan Akhtar,Ribhu Dasgupta,Prakash Jha,Bedabrata Pain
+Umesh Mehra,Latif Faiziyev,Rajiv Mehra,K.C. Bokadia,Raj Kapoor,Mastan Alibhai Burmawalla,Abbas Alibhai Burmawalla,David Dhawan,Subhash Ghai,Surya S.J.,Aziz Mirza
+Yılmaz Erdoğan,Ozan Açıktan,Hakan Algül,Kıvanç Baruönü,Ali Taner Baltacı,Burak Aksak,Yusuf Pirhasan,Sermiyan Midyat,Özkan Uğur,Hakan Yonat,Onur Ünlü
+Kevin Smith,Kevin Kolsch,Scott Stewart,Dennis Widmyer,Adam Egypt Mortimer,Sarah Adina Smith,Anthony Scott Burns,Nicholas McCarthy,Gary Shore,Steve Brill,Jonathan van Tulleken
+Terry Gilliam,Stephen Hawking,Antoine Fuqua,Steven Soderbergh,Mike Myers,Martin Scorsese,McG,Anthony Minghella,Sam Raimi,Michael Bay,Don Bluth
+Ram Gopal Varma,Mani Ratnam,Priyadarshan,Anees Bazmee,Prawal Raman,Sriram Raghavan,Milan Luthria,Kookie V. Gulati,Manish Jha,N. Chandra,David Dhawan
